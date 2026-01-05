@@ -68,7 +68,7 @@ python BLUAI.py
 ## 📝 Kullanım İpuçları
 Uygulama açıldığında karşınıza **Görev Seçim Ekranı** gelecektir:
 
-1. **Görev Seçin:** El Yıkama veya Masa Kurma
+1. **Görev Seçin:** El Yıkama veya Masa Kurma.
 2. **Seviye Belirleyin:**
     * **Video Yardımı:** Ekranda model olan bir video oynatılır.
     * **Ses Yardımı:** Sadece sesli ve görsel piktogram desteği verilir.
