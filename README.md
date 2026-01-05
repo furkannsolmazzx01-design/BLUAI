@@ -42,7 +42,7 @@ git clone [https://github.com/furkannsolmazzx01-design/BLUAI.git](https://github
 cd BLUAI
 
 
-### 2. Sanal Ortam (Virtual Environment) Oluşturun
+###  Sanal Ortam (Virtual Environment) Oluşturun
 ** Windows Kullanıcıları İçin: **
 
 python -m venv .venv
@@ -55,12 +55,12 @@ source .venv/bin/activate
 
 !!!NOT: Komutu yazdıktan sonra terminal satırının başında (.venv) ibaresini görmelisiniz. Bu, sanal ortamın aktif olduğunu gösterir.
 
-### 3. Gerekli Kütüphaneleri Yükleyin
+###  Gerekli Kütüphaneleri Yükleyin
 Sanal ortam aktifken, proje için gerekli olan tüm paketleri (OpenCV, MediaPipe vb.) tek komutla yükleyin:
 
 pip install -r requirements.txt
 
-### 4. Uygulamayı Başlatın
+###  Uygulamayı Başlatın
 Kurulum tamamlandı! Şimdi asistanı çalıştırabilirsiniz:
 
 python BLUAI.py
