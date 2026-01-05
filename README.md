@@ -73,8 +73,8 @@ Uygulama açıldığında karşınıza **Görev Seçim Ekranı** gelecektir:
 2. **Seviye Belirleyin:**
     * **Video Yardımı:** Ekranda model olan bir video oynatılır.
     * **Ses Yardımı:** Sadece sesli ve görsel piktogram desteği verilir.
-    * **Bağımsız Seviye:** İpucu en aza indirilir, çocuğun bağımsız yapması beklenir.
-3. **Çıkış:** Uygulamadan çıkmak için sol üstteki kırmızı butona basabilir veya klavyeden `q` tuşuna basabilirsiniz.
+    * **Bağımsız Seviye:** İpucu en aza indirilir, çocuğun görevleri bağımsız olarak tamamlaması beklenir.
+3. **Çıkış:** Uygulamadan çıkmak için görev ekranında bulunan sol üstteki kırmızı butona basıp, ya da görev seçme ekranındaki kırmızı butona basıp uygulamadan çıkış yapabilirsiniz.
 
 ---
 *Bu proje Ankara Üniversitesi, Eğitim Bilimleri Fakültesi, Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü (BÖTE) öğrencisi tarafından geliştirilmiştir.*
