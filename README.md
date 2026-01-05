@@ -64,6 +64,7 @@ pip install -r requirements.txt
 Kurulum tamamlandı! Şimdi asistanı çalıştırabilirsiniz:
 
 python BLUAI.py
+```  
 
 ## 📝 Kullanım İpuçları
 Uygulama açıldığında karşınıza **Görev Seçim Ekranı** gelecektir:
