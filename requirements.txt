@@ -1,0 +1,15 @@
+absl-py==2.3.1
+certifi==2025.11.12
+cffi==2.0.0
+charset-normalizer==3.4.4
+cvzone==1.6.1
+flatbuffers==25.12.19
+idna==3.11
+mediapipe==0.10.31
+numpy==1.26.4
+opencv-python==4.11.0.86
+pycparser==2.23
+pygame==2.6.1
+requests==2.32.5
+sounddevice==0.5.3
+urllib3==2.5.0
