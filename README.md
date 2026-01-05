@@ -45,13 +45,11 @@ cd BLUAI
 ### 2. Sanal Ortam (Virtual Environment) Oluşturun
 ** Windows Kullanıcıları İçin: **
 
-bash
 python -m venv .venv
 .venv\Scripts\activate
 
 ** Mac/Linux Kullanıcıları için: **
 
-bash
 python3 -m venv .venv
 source .venv/bin/activate
 
@@ -60,23 +58,22 @@ source .venv/bin/activate
 ### 3. Gerekli Kütüphaneleri Yükleyin
 Sanal ortam aktifken, proje için gerekli olan tüm paketleri (OpenCV, MediaPipe vb.) tek komutla yükleyin:
 
-bash
 pip install -r requirements.txt
 
 ### 4. Uygulamayı Başlatın
 Kurulum tamamlandı! Şimdi asistanı çalıştırabilirsiniz:
 
-bash
 python BLUAI.py
 
-## Kullanım İpuçları
-Uygulama açıldığında karşınıza Görev Seçim Ekranı gelecektir.
-1. Görev Seçin: El Yıkama veya Masa Kurma
-2. Seviye Belirleyin:
-   * Video Yardımı: Ekranda model olan bir video oynatılır.
-   * Ses Yardımı: Sadece sesli ve görsel piktogram desteği verilir.
-   * Bağımsız Seviye: İpucu en aza indirilir, çocuğun bağımsız bir şekilde görevleri    tamamlaması beklenir.
-3. Çıkış: Uygulamadan çıkış yapmak için görev ekranı açıldığı zaman sol üstteki kırmızı butona basabilir ya da Görev Seçimi ekranında ki kırmızı butona basıp uygulamadan çıkış yapabilirsiniz.
+## 📝 Kullanım İpuçları
+Uygulama açıldığında karşınıza **Görev Seçim Ekranı** gelecektir:
 
-Bu proje Ankara Üniversitesi, Eğitim Bilimleri Fakültesi, Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü (BÖTE) öğrencisi tarafından, Özel Eğitim ve Bilgisayar Teknolojileri kapsamında geliştirilmiştir.
+1. **Görev Seçin:** El Yıkama veya Masa Kurma
+2. **Seviye Belirleyin:**
+    * **Video Yardımı:** Ekranda model olan bir video oynatılır.
+    * **Ses Yardımı:** Sadece sesli ve görsel piktogram desteği verilir.
+    * **Bağımsız Seviye:** İpucu en aza indirilir, çocuğun bağımsız yapması beklenir.
+3. **Çıkış:** Uygulamadan çıkmak için sol üstteki kırmızı butona basabilir veya klavyeden `q` tuşuna basabilirsiniz.
 
+---
+*Bu proje Ankara Üniversitesi, Eğitim Bilimleri Fakültesi, Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü (BÖTE) öğrencisi tarafından geliştirilmiştir.*
