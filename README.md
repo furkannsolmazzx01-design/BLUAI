@@ -66,7 +66,7 @@ Kurulum tamamlandı! Şimdi asistanı çalıştırabilirsiniz:
 python BLUAI.py
 ```  
 
-## 📝 Kullanım İpuçları
+### 2. 📝 Kullanım İpuçları
 Uygulama açıldığında karşınıza **Görev Seçim Ekranı** gelecektir:
 
 1. **Görev Seçin:** El Yıkama veya Masa Kurma.
