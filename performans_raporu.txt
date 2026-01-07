@@ -2012,3 +2012,335 @@ Hatalar -> El Yok: 2, Tek El: 0
 Adım Detayları:
   Adım 1: 2.84s (Basarili)
 ========================================
+
+========================================
+Tarih: 05-01-2026 17:40
+Görev: Masa Kurma | Seviye: Ses Yardimi
+Toplam Süre: 68.0s | Başarı: %0.0
+Hatalar -> El Yok: 4, Tek El: 0
+Adım Detayları:
+========================================
+
+========================================
+Tarih: 05-01-2026 18:06
+Görev: El Yikama | Seviye: Bagimsiz Seviye
+Toplam Süre: 109.03s | Başarı: %33.3
+Hatalar -> El Yok: 11, Tek El: 0
+Adım Detayları:
+  Adım 1: 23.36s (Basarili)
+  Adım 2: 43.6s (Basarili)
+========================================
+
+========================================
+Tarih: 05-01-2026 18:06
+Görev: El Yikama | Seviye: Bagimsiz Seviye
+Toplam Süre: 35.61s | Başarı: %33.3
+Hatalar -> El Yok: 3, Tek El: 0
+Adım Detayları:
+  Adım 1: 2.8s (Basarili)
+  Adım 2: 8.02s (Basarili)
+========================================
+
+========================================
+Tarih: 05-01-2026 18:07
+Görev: El Yikama | Seviye: Bagimsiz Seviye
+Toplam Süre: 22.43s | Başarı: %0.0
+Hatalar -> El Yok: 3, Tek El: 0
+Adım Detayları:
+========================================
+
+========================================
+Tarih: 05-01-2026 19:54
+Görev: Masa Kurma | Seviye: Video Yardimi
+Toplam Süre: 180.01s | Başarı: %33.3
+Hatalar -> El Yok: 7, Tek El: 0
+Adım Detayları:
+  Adım 1: 19.84s (Basarili)
+  Adım 2: 120.24s (Basarili)
+========================================
+
+========================================
+Tarih: 05-01-2026 19:55
+Görev: Masa Kurma | Seviye: Ses Yardimi
+Toplam Süre: 45.85s | Başarı: %100.0
+Hatalar -> El Yok: 1, Tek El: 0
+Adım Detayları:
+  Adım 1: 7.49s (Basarili)
+  Adım 2: 6.46s (Basarili)
+  Adım 3: 6.03s (Basarili)
+  Adım 4: 6.07s (Basarili)
+  Adım 5: 6.41s (Basarili)
+  Adım 6: 13.37s (Basarili)
+========================================
+
+========================================
+Tarih: 05-01-2026 19:57
+Görev: Masa Kurma | Seviye: Ses Yardimi
+Toplam Süre: 49.76s | Başarı: %100.0
+Hatalar -> El Yok: 2, Tek El: 0
+Adım Detayları:
+  Adım 1: 7.89s (Basarili)
+  Adım 2: 4.85s (Basarili)
+  Adım 3: 5.34s (Basarili)
+  Adım 4: 5.27s (Basarili)
+  Adım 5: 6.3s (Basarili)
+  Adım 6: 20.12s (Basarili)
+========================================
+
+========================================
+Tarih: 05-01-2026 20:56
+Görev: El Yikama | Seviye: Video Yardimi
+Toplam Süre: 31.78s | Başarı: %16.7
+Hatalar -> El Yok: 4, Tek El: 0
+Adım Detayları:
+  Adım 1: 7.19s (Basarili)
+========================================
+
+========================================
+Tarih: 05-01-2026 21:03
+Görev: Masa Kurma | Seviye: Bagimsiz Seviye
+Toplam Süre: 54.93s | Başarı: %83.3
+Hatalar -> El Yok: 2, Tek El: 0
+Adım Detayları:
+  Adım 1: 9.54s (Basarili)
+  Adım 2: 7.14s (Basarili)
+  Adım 3: 6.13s (Basarili)
+  Adım 4: 6.72s (Basarili)
+  Adım 5: 18.05s (Basarili)
+========================================
+
+========================================
+Tarih: 05-01-2026 21:04
+Görev: Masa Kurma | Seviye: Bagimsiz Seviye
+Toplam Süre: 47.8s | Başarı: %83.3
+Hatalar -> El Yok: 2, Tek El: 0
+Adım Detayları:
+  Adım 1: 9.46s (Basarili)
+  Adım 2: 5.97s (Basarili)
+  Adım 3: 4.55s (Basarili)
+  Adım 4: 5.23s (Basarili)
+  Adım 5: 14.22s (Basarili)
+========================================
+
+========================================
+Tarih: 05-01-2026 21:08
+Görev: El Yikama | Seviye: Bagimsiz Seviye
+Toplam Süre: 49.88s | Başarı: %100.0
+Hatalar -> El Yok: 1, Tek El: 0
+Adım Detayları:
+  Adım 1: 3.15s (Basarili)
+  Adım 2: 6.54s (Basarili)
+  Adım 3: 8.14s (Basarili)
+  Adım 4: 7.75s (Basarili)
+  Adım 5: 8.83s (Basarili)
+  Adım 6: 15.47s (Basarili)
+========================================
+
+========================================
+Tarih: 05-01-2026 21:10
+Görev: El Yikama | Seviye: Bagimsiz Seviye
+Toplam Süre: 59.71s | Başarı: %83.3
+Hatalar -> El Yok: 4, Tek El: 0
+Adım Detayları:
+  Adım 1: 3.55s (Basarili)
+  Adım 2: 5.56s (Basarili)
+  Adım 3: 10.41s (Basarili)
+  Adım 4: 7.66s (Basarili)
+  Adım 5: 5.6s (Basarili)
+========================================
+
+========================================
+Tarih: 06-01-2026 18:27
+Görev: El Yikama | Seviye: Ses Yardimi
+Toplam Süre: 22.76s | Başarı: %16.7
+Hatalar -> El Yok: 1, Tek El: 0
+Adım Detayları:
+  Adım 1: 12.93s (Basarili)
+========================================
+
+========================================
+Tarih: 06-01-2026 18:28
+Görev: Masa Kurma | Seviye: Ses Yardimi
+Toplam Süre: 23.86s | Başarı: %16.7
+Hatalar -> El Yok: 2, Tek El: 0
+Adım Detayları:
+  Adım 1: 13.26s (Basarili)
+========================================
+
+========================================
+Tarih: 07-01-2026 13:18
+Görev: El Yikama | Seviye: Ses Yardimi
+Toplam Süre: 41.4s | Başarı: %33.3
+Hatalar -> El Yok: 1, Tek El: 0
+Adım Detayları:
+  Adım 1: 5.93s (Basarili)
+  Adım 2: 9.97s (Basarili)
+========================================
+
+========================================
+Tarih: 08-01-2026 00:29
+Görev: El Yikama | Seviye: Video Yardimi
+Toplam Süre: 94.82s | Başarı: %100.0
+Hatalar -> El Yok: 1, Tek El: 0
+Adım Detayları:
+  Adım 1: 3.63s (Basarili)
+  Adım 2: 17.07s (Basarili)
+  Adım 3: 20.93s (Basarili)
+  Adım 4: 21.39s (Basarili)
+  Adım 5: 11.43s (Basarili)
+  Adım 6: 20.34s (Basarili)
+========================================
+
+========================================
+Tarih: 08-01-2026 00:30
+Görev: El Yikama | Seviye: Ses Yardimi
+Toplam Süre: 72.37s | Başarı: %100.0
+Hatalar -> El Yok: 1, Tek El: 0
+Adım Detayları:
+  Adım 1: 2.55s (Basarili)
+  Adım 2: 16.02s (Basarili)
+  Adım 3: 22.34s (Basarili)
+  Adım 4: 10.14s (Basarili)
+  Adım 5: 8.51s (Basarili)
+  Adım 6: 12.81s (Basarili)
+========================================
+
+========================================
+Tarih: 08-01-2026 00:31
+Görev: El Yikama | Seviye: Bagimsiz Seviye
+Toplam Süre: 59.75s | Başarı: %100.0
+Hatalar -> El Yok: 0, Tek El: 0
+Adım Detayları:
+  Adım 1: 3.98s (Basarili)
+  Adım 2: 7.73s (Basarili)
+  Adım 3: 13.12s (Basarili)
+  Adım 4: 13.57s (Basarili)
+  Adım 5: 8.66s (Basarili)
+  Adım 6: 12.7s (Basarili)
+========================================
+
+========================================
+Tarih: 08-01-2026 00:32
+Görev: Masa Kurma | Seviye: Video Yardimi
+Toplam Süre: 57.56s | Başarı: %100.0
+Hatalar -> El Yok: 1, Tek El: 0
+Adım Detayları:
+  Adım 1: 11.9s (Basarili)
+  Adım 2: 14.67s (Basarili)
+  Adım 3: 8.79s (Basarili)
+  Adım 4: 9.06s (Basarili)
+  Adım 5: 6.02s (Basarili)
+  Adım 6: 7.13s (Basarili)
+========================================
+
+========================================
+Tarih: 08-01-2026 00:34
+Görev: Masa Kurma | Seviye: Ses Yardimi
+Toplam Süre: 70.95s | Başarı: %100.0
+Hatalar -> El Yok: 1, Tek El: 0
+Adım Detayları:
+  Adım 1: 16.49s (Basarili)
+  Adım 2: 8.47s (Basarili)
+  Adım 3: 8.8s (Basarili)
+  Adım 4: 8.18s (Basarili)
+  Adım 5: 11.19s (Basarili)
+  Adım 6: 17.81s (Basarili)
+========================================
+
+========================================
+Tarih: 08-01-2026 00:35
+Görev: Masa Kurma | Seviye: Bagimsiz Seviye
+Toplam Süre: 54.93s | Başarı: %100.0
+Hatalar -> El Yok: 1, Tek El: 0
+Adım Detayları:
+  Adım 1: 9.61s (Basarili)
+  Adım 2: 8.05s (Basarili)
+  Adım 3: 9.17s (Basarili)
+  Adım 4: 9.04s (Basarili)
+  Adım 5: 9.48s (Basarili)
+  Adım 6: 9.57s (Basarili)
+========================================
+
+========================================
+Tarih: 08-01-2026 01:02
+Görev: Masa Kurma | Seviye: Ses Yardimi
+Toplam Süre: 67.5s | Başarı: %100.0
+Hatalar -> El Yok: 2, Tek El: 0
+Adım Detayları:
+  Adım 1: 18.03s (Basarili)
+  Adım 2: 7.89s (Basarili)
+  Adım 3: 9.32s (Basarili)
+  Adım 4: 14.8s (Basarili)
+  Adım 5: 9.03s (Basarili)
+  Adım 6: 8.42s (Basarili)
+========================================
+
+========================================
+Tarih: 08-01-2026 01:03
+Görev: Masa Kurma | Seviye: Bagimsiz Seviye
+Toplam Süre: 53.47s | Başarı: %100.0
+Hatalar -> El Yok: 0, Tek El: 0
+Adım Detayları:
+  Adım 1: 11.46s (Basarili)
+  Adım 2: 8.86s (Basarili)
+  Adım 3: 8.23s (Basarili)
+  Adım 4: 7.7s (Basarili)
+  Adım 5: 9.21s (Basarili)
+  Adım 6: 8.0s (Basarili)
+========================================
+
+========================================
+Tarih: 08-01-2026 01:04
+Görev: Masa Kurma | Seviye: Video Yardimi
+Toplam Süre: 55.85s | Başarı: %100.0
+Hatalar -> El Yok: 1, Tek El: 0
+Adım Detayları:
+  Adım 1: 15.41s (Basarili)
+  Adım 2: 7.99s (Basarili)
+  Adım 3: 7.95s (Basarili)
+  Adım 4: 7.52s (Basarili)
+  Adım 5: 8.18s (Basarili)
+  Adım 6: 8.78s (Basarili)
+========================================
+
+========================================
+Tarih: 08-01-2026 01:05
+Görev: El Yikama | Seviye: Bagimsiz Seviye
+Toplam Süre: 62.36s | Başarı: %100.0
+Hatalar -> El Yok: 0, Tek El: 0
+Adım Detayları:
+  Adım 1: 3.27s (Basarili)
+  Adım 2: 9.2s (Basarili)
+  Adım 3: 14.2s (Basarili)
+  Adım 4: 13.11s (Basarili)
+  Adım 5: 8.31s (Basarili)
+  Adım 6: 14.26s (Basarili)
+========================================
+
+========================================
+Tarih: 08-01-2026 01:07
+Görev: El Yikama | Seviye: Ses Yardimi
+Toplam Süre: 78.07s | Başarı: %100.0
+Hatalar -> El Yok: 2, Tek El: 0
+Adım Detayları:
+  Adım 1: 4.47s (Basarili)
+  Adım 2: 11.13s (Basarili)
+  Adım 3: 18.65s (Basarili)
+  Adım 4: 15.77s (Basarili)
+  Adım 5: 11.13s (Basarili)
+  Adım 6: 16.91s (Basarili)
+========================================
+
+========================================
+Tarih: 08-01-2026 01:08
+Görev: El Yikama | Seviye: Video Yardimi
+Toplam Süre: 85.8s | Başarı: %100.0
+Hatalar -> El Yok: 1, Tek El: 0
+Adım Detayları:
+  Adım 1: 3.95s (Basarili)
+  Adım 2: 21.74s (Basarili)
+  Adım 3: 13.11s (Basarili)
+  Adım 4: 13.12s (Basarili)
+  Adım 5: 14.5s (Basarili)
+  Adım 6: 19.38s (Basarili)
+========================================
