@@ -33,6 +33,8 @@ Bu proje **Python** dili ile geliştirilmiştir.
 
 Projeyi bilgisayarınızda sorunsuz çalıştırmak için **sanal ortam (virtual environment)** kullanılması önerilir. Bu yöntem, bilgisayarınızdaki diğer projelerle çakışma yaşanmasını engeller.
 
+!!! Proje Python 3.11.9 sürümü ile geliştirilmiştir. 
+
 Lütfen işletim sisteminize uygun adımları takip edin:
 
 ### 1. Projeyi Bilgisayarınıza İndirin (Klonlayın)
