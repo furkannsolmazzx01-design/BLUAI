@@ -83,6 +83,6 @@ Uygulama açıldığında karşınıza **Görev Seçim Ekranı** gelecektir:
 
 Bu proje, Ankara Üniversitesi BOZ213 - Nesne Tabanlı Programlama dersi kapsamında geliştirilmiştir. 
 
-Kaynak kodlar yalnızca eğitim eğitim ve inceleme amacıyla kullanılabilir. İzinsiz ticari kullanım, kopyalama ve dağıtım yasaktır. 
+Kaynak kodlar yalnızca eğitim ve inceleme amacıyla kullanılabilir. İzinsiz ticari kullanım, kopyalama ve dağıtım yasaktır. 
 
 **© 2026 Furkan Solmaz. Tüm hakları saklıdır.**
